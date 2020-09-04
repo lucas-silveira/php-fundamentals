@@ -25,4 +25,3 @@ if (false) {
 } else {
   var_dump("passo c");
 }
-
