@@ -11,3 +11,7 @@ for ($i = 0; $i < count($numbers); $i++) {
   print($numbers[$i] * 2);
   print(PHP_EOL);
 }
+
+// loop infinito
+// for (;;) {
+// }
