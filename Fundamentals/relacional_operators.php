@@ -6,7 +6,6 @@ var_dump(1 > 2); // bool(false)
 var_dump(1 < 2); // bool(true)
 var_dump(1 >= 2); // bool(false)
 var_dump(1 <= 2); // bool(true)
-var_dump(1 <= 2); // bool(true)
 print(PHP_EOL);
 var_dump(1 == '1'); // bool(true)
 var_dump(1 === '1'); // bool(false)
