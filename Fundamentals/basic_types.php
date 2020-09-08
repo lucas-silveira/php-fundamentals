@@ -21,7 +21,7 @@ var_dump(1.1); // float(1.1)
 var_dump(1.0); // float(1)
 print(1.2e3); // 1.2 * 1000 = 1200
 print("\n");
-print(1200e-3); // 1.2 * 0.001 = 1.2
+print(1200e-3); // 1200 * 0.001 = 1.2
 print("\n");
 
 // String
