@@ -28,11 +28,11 @@ var_dump($concatData[$randomIndex]);
 unset($concatData);
 // var_dump($concatData); // NULL
 
-$concatData2 = array_merge($data1, $data2);
-print_r($concatData2);
+$concatData = array_merge($data1, $data2);
+print_r($concatData);
 // Array
 // (
-//     [name] => John
+//     [name] => Mary
 //     [age] => 20
 //     [country] => EUA
 // )
