@@ -8,7 +8,7 @@ foreach ($numbers as $num) {
 }
 
 foreach ($numbers as $index => $value) {
-  print("$index => $num");
+  print("$index => $value");
   print(PHP_EOL);
 }
 
