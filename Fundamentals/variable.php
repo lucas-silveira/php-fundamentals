@@ -1,7 +1,7 @@
 <?php
 
 $number_a = 13;
-var_dump($number_a);
+var_dump($number_a); // int(13)
 
 $a = 3;
 $a = 'hello'; // tipagem fraca
