@@ -1,6 +1,6 @@
 <?php
 
-// É possível adicionar tipos nos argumentos de uma função
+// É possível adicionar tipos nos argumentos e no retorno de uma função
 
 function sum(int $a, int $b) {
   return $a + $b;
