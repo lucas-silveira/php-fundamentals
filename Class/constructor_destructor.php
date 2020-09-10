@@ -14,7 +14,7 @@ class Person {
   }
 
   public function sayHello() {
-    return "Olá. Sou o {$this->name}!\n";
+    return "Olá. Sou o {$this->name}!";
   }
 }
 
