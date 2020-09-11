@@ -20,3 +20,11 @@ $client3 = new Client;
 $client3->name = 'Peter';
 $client3->age = 21;
 print($client3->sayHello()); // Olá. Sou o Peter!
+print("\n");
+
+print_r($client1);
+// Client Object
+// (
+//     [name] => Anônimo
+//     [age] => 20
+// )
