@@ -16,7 +16,7 @@ interface IBird extends IAnimal {
 // Em PHP, uma classe pode implementar múltiplas interfaces
 class Dog implements IAnimal, ICanino {
   public function eat(): string {
-    return "Comendo...";
+    return "comendo...";
   }
 
   public function bark(): string {
