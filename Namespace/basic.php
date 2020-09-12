@@ -1,8 +1,8 @@
 <?php
 
-namespace Context_Name;
+namespace ContextName;
 
-print(__NAMESPACE__); // Context_Name
+print(__NAMESPACE__); // ContextName
 print(PHP_EOL);
 
 const CONSTANT1 = 123;
@@ -17,4 +17,4 @@ function sum($a, $b) {
 }
 
 var_dump(sum(1, 2)); // int(3)
-var_dump(\Context_Name\sum(2,2)); // int(4)
+var_dump(\ContextName\sum(2,2)); // int(4)
