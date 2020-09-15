@@ -17,7 +17,7 @@ const CONSTANT = 456;
 
 namespace App\Principal\Specific;
 
-print(__NAMESPACE__); // App\Specific
+print(__NAMESPACE__); // App\Principal\Specific
 print(PHP_EOL);
 
 const CONSTANT = 789;

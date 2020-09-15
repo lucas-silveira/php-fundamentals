@@ -1,6 +1,6 @@
 <?php
 
-// A diferença entre include e require é a forma como um erro é tratado.
+// A diferença entre include e require é a forma como o erro é tratado.
 // O require produz um erro E_COMPILE_ERROR , o que encerra a execução do script.
 // O include apenas produz um warning que pode ser "abafado".
 
