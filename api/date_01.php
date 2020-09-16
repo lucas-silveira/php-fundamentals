@@ -19,4 +19,4 @@ print(strftime('%A, %d de %B de %Y', $nextWeek)); // terça, 22 de setembro de 2
 print(PHP_EOL);
 
 $date = mktime(15, 30, 50, 1, 25, 2020);
-print(strftime('%A, %d de %B de %Y - %H:%M:%S', $date)); // sábado, 25 de janeiro de 2020 - 15:30:50
+print(strftime('%A, %d de %B de %Y - %H:%M:%S', $date));
