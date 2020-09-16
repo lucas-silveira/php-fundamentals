@@ -1,0 +1,3 @@
+Valor inicial
+Segunda linha
+Novo conteúdo adicionado em um segundo momento.
