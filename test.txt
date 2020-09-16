@@ -1,3 +1,4 @@
 Valor inicial
 Segunda linha
 Novo conteúdo adicionado em um segundo momento.
+Adicionado durante a leitura
