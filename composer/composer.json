@@ -1,0 +1,20 @@
+{
+    "name": "lucas-silveira/my-first-composer-project",
+    "authors": [
+        {
+            "name": "Lucas Silveira",
+            "email": "lugano1995@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyProject\\": "src"
+        }
+    },
+    "scripts": {
+        "server": "php -S localhost:8080 -t public"
+    },
+    "require": {
+        "monolog/monolog": "^2.1"
+    }
+}
